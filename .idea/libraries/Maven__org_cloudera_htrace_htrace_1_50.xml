@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.cloudera.htrace:htrace:1.50">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Program Files (x86)/apache-maven-3.8.2/repository/org/cloudera/htrace/htrace/1.50/htrace-1.50.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Program Files (x86)/apache-maven-3.8.2/repository/org/cloudera/htrace/htrace/1.50/htrace-1.50-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Program Files (x86)/apache-maven-3.8.2/repository/org/cloudera/htrace/htrace/1.50/htrace-1.50-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
